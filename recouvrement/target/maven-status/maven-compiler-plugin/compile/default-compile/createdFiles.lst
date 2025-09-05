@@ -1,0 +1,13 @@
+com\projet\recouvrement\RecouvrementApplication.class
+com\projet\recouvrement\exception\BordereauNotFoundException.class
+com\projet\recouvrement\mapper\BordereauDeRecouvrementMapper.class
+com\projet\recouvrement\dto\BordereauDeRecouvrementReadDTO.class
+com\projet\recouvrement\dto\BordereauDeRecouvrementReadDTO$BordereauDeRecouvrementReadDTOBuilder.class
+com\projet\recouvrement\repository\BordereauDeRecouvrementRepository.class
+com\projet\recouvrement\configuration\SwaggerConfig.class
+com\projet\recouvrement\dto\BordereauDeRecouvrementWriteDTO.class
+com\projet\recouvrement\model\Statut.class
+com\projet\recouvrement\controller\BordereauDeRecouvrementController.class
+com\projet\recouvrement\model\BordereauDeRecouvrement.class
+com\projet\recouvrement\service\BordereauDeRecouvrementService.class
+com\projet\recouvrement\service\impl\BordereauDeRecouvrementServiceImpl.class

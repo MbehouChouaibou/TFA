@@ -1,0 +1,12 @@
+C:\Users\EVERMATE\IdeaProjects\tfa_backend\recouvrement\src\main\java\com\projet\recouvrement\configuration\SwaggerConfig.java
+C:\Users\EVERMATE\IdeaProjects\tfa_backend\recouvrement\src\main\java\com\projet\recouvrement\controller\BordereauDeRecouvrementController.java
+C:\Users\EVERMATE\IdeaProjects\tfa_backend\recouvrement\src\main\java\com\projet\recouvrement\dto\BordereauDeRecouvrementReadDTO.java
+C:\Users\EVERMATE\IdeaProjects\tfa_backend\recouvrement\src\main\java\com\projet\recouvrement\dto\BordereauDeRecouvrementWriteDTO.java
+C:\Users\EVERMATE\IdeaProjects\tfa_backend\recouvrement\src\main\java\com\projet\recouvrement\exception\BordereauNotFoundException.java
+C:\Users\EVERMATE\IdeaProjects\tfa_backend\recouvrement\src\main\java\com\projet\recouvrement\mapper\BordereauDeRecouvrementMapper.java
+C:\Users\EVERMATE\IdeaProjects\tfa_backend\recouvrement\src\main\java\com\projet\recouvrement\model\BordereauDeRecouvrement.java
+C:\Users\EVERMATE\IdeaProjects\tfa_backend\recouvrement\src\main\java\com\projet\recouvrement\model\Statut.java
+C:\Users\EVERMATE\IdeaProjects\tfa_backend\recouvrement\src\main\java\com\projet\recouvrement\RecouvrementApplication.java
+C:\Users\EVERMATE\IdeaProjects\tfa_backend\recouvrement\src\main\java\com\projet\recouvrement\repository\BordereauDeRecouvrementRepository.java
+C:\Users\EVERMATE\IdeaProjects\tfa_backend\recouvrement\src\main\java\com\projet\recouvrement\service\BordereauDeRecouvrementService.java
+C:\Users\EVERMATE\IdeaProjects\tfa_backend\recouvrement\src\main\java\com\projet\recouvrement\service\BordereauDeRecouvrementServiceImpl.java
